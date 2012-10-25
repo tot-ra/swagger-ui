@@ -99,6 +99,7 @@ h2 span.sub a {
 }
 
 h3 {
+    clear:both;
     color: black;
     font-size: 1.1em;
     padding: 10px 0 10px 0;
