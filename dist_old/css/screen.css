@@ -269,7 +269,7 @@ table tbody tr td {
     line-height: 1.3em;
 }
 
-table tbody tr:last-child td {
+.content table tbody tr:last-child td {
     border-bottom: none;
 }
 
